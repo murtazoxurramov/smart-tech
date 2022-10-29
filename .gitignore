@@ -19,7 +19,6 @@ lib64/
 parts/
 sdist/
 var/
-media/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -61,6 +60,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+media/
 
 # Flask stuff:
 instance/
